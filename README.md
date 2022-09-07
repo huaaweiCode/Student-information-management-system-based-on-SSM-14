@@ -1,10 +1,6 @@
 # 基于SSM的学生信息管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ：**学生14** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -63,11 +59,4 @@
 
 ![学生界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301909030.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**学生14** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
